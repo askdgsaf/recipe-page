@@ -74,4 +74,7 @@ ul,ol{
     margin: 0 30px;
     width: 500px;
 }
+.attribution{
+    font-family: 'Courier New', Courier, monospace;
+}
 
